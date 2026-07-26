@@ -1,0 +1,6 @@
+price_category,product_count,avg_rating,avg_discount,avg_value_score
+Budget (<5k),244,3.91,44.9,0.525
+Premium (30k-50k),94,4.25,28.3,0.509
+Entry (5k-15k),191,3.92,36.4,0.501
+Luxury (>50k),15,4.43,18.6,0.499
+Mid-Range (15k-30k),326,3.95,31.7,0.49
